@@ -20,7 +20,7 @@ https://openreview.net/group?id=ICLR.cc/2020/Conference
 
 <table>
   <tr>
-    <th>Review</th>
+    <th align="left">Review</th>
     <th>Sentiments</th>
   </tr>
   <tr>
