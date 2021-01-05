@@ -13,9 +13,8 @@ Sentiment Analysis is the task of identifying whether the opinion expressed in a
 
 ### Datasets
 In this project, we used one dataset. Let us now describe the datasets in more details:
-<p align="left">1. ICLR 2020 Conference | OpenReview dataset using selenium crawler
-  https://openreview.net/group?id=ICLR.cc/2020/Conference
-</p>
+<p align="left">1. ICLR 2020 Conference | OpenReview dataset using selenium crawler</p>
+<p align="left">https://openreview.net/group?id=ICLR.cc/2020/Conference</p>
 <p align="left">This set is a collection of paper reviews documents labeled with respect to their overall sentiment polarity (positive or negative or neutral). The set collected in 2020-Dec-20 and it contains 702 positive and 794 negative and 1038 neutral processed reviews. The reviews were preprocessed by the dataset editors so that each review is formatted as a plain tokenized text, containing no structured information that can imply on the polarity of the text (e.g., label – 0/1). The average review size (in words) is 40000. Although this set is considered as a user-generated content the language is relatively grammatically correct in most cases, probably because users are not restricted with the size of the text.</p>
 
 <table>
